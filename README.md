@@ -5,3 +5,8 @@
 ![展示图片](https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/大图展示.PNG "展示图片")
 
 ![展示图片](https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/另一种展示.png "展示图片")
+
+----
+### 特殊浏览器备用图片
+<img src="https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/大图展示.PNG "展示图片"">
+<img src="https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/另一种展示.png">
