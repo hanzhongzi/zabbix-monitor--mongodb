@@ -9,5 +9,5 @@
 ----
 ### 特殊浏览器备用图片
 下面的图片和上面的图片一样
-<img src="https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/大图展示.PNG >
+<img src="https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/大图展示.PNG">
 <img src="https://github.com/hanzhongzi/zabbix-monitor--mongodb/blob/master/img/另一种展示.png">
